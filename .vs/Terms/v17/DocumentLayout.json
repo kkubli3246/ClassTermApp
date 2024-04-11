@@ -1,0 +1,569 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31EAFC2A-18C8-4765-8E65-04DFA174B66D}|Terms.csproj|c:\\users\\kanui\\downloads\\terms\\terms\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EAFC2A-18C8-4765-8E65-04DFA174B66D}|Terms.csproj|solutionrelative:loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EAFC2A-18C8-4765-8E65-04DFA174B66D}|Terms.csproj|c:\\users\\kanui\\downloads\\terms\\terms\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EAFC2A-18C8-4765-8E65-04DFA174B66D}|Terms.csproj|solutionrelative:services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EAFC2A-18C8-4765-8E65-04DFA174B66D}|Terms.csproj|c:\\users\\kanui\\downloads\\terms\\terms\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EAFC2A-18C8-4765-8E65-04DFA174B66D}|Terms.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EAFC2A-18C8-4765-8E65-04DFA174B66D}|Terms.csproj|c:\\users\\kanui\\downloads\\terms\\terms\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EAFC2A-18C8-4765-8E65-04DFA174B66D}|Terms.csproj|solutionrelative:appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EAFC2A-18C8-4765-8E65-04DFA174B66D}|Terms.csproj|c:\\users\\kanui\\downloads\\terms\\terms\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{31EAFC2A-18C8-4765-8E65-04DFA174B66D}|Terms.csproj|solutionrelative:loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EAFC2A-18C8-4765-8E65-04DFA174B66D}|Terms.csproj|c:\\users\\kanui\\downloads\\terms\\terms\\terms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{31EAFC2A-18C8-4765-8E65-04DFA174B66D}|Terms.csproj|solutionrelative:terms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EAFC2A-18C8-4765-8E65-04DFA174B66D}|Terms.csproj|c:\\users\\kanui\\downloads\\terms\\terms\\models\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EAFC2A-18C8-4765-8E65-04DFA174B66D}|Terms.csproj|solutionrelative:models\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EAFC2A-18C8-4765-8E65-04DFA174B66D}|Terms.csproj|c:\\users\\kanui\\downloads\\terms\\terms\\models\\widget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EAFC2A-18C8-4765-8E65-04DFA174B66D}|Terms.csproj|solutionrelative:models\\widget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EAFC2A-18C8-4765-8E65-04DFA174B66D}|Terms.csproj|c:\\users\\kanui\\downloads\\terms\\terms\\models\\term.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EAFC2A-18C8-4765-8E65-04DFA174B66D}|Terms.csproj|solutionrelative:models\\term.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EAFC2A-18C8-4765-8E65-04DFA174B66D}|Terms.csproj|c:\\users\\kanui\\downloads\\terms\\terms\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EAFC2A-18C8-4765-8E65-04DFA174B66D}|Terms.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EAFC2A-18C8-4765-8E65-04DFA174B66D}|Terms.csproj|c:\\users\\kanui\\downloads\\terms\\terms\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EAFC2A-18C8-4765-8E65-04DFA174B66D}|Terms.csproj|solutionrelative:models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EAFC2A-18C8-4765-8E65-04DFA174B66D}|Terms.csproj|c:\\users\\kanui\\downloads\\terms\\terms\\views\\dashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EAFC2A-18C8-4765-8E65-04DFA174B66D}|Terms.csproj|solutionrelative:views\\dashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EAFC2A-18C8-4765-8E65-04DFA174B66D}|Terms.csproj|c:\\users\\kanui\\downloads\\terms\\terms\\views\\dashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{31EAFC2A-18C8-4765-8E65-04DFA174B66D}|Terms.csproj|solutionrelative:views\\dashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EAFC2A-18C8-4765-8E65-04DFA174B66D}|Terms.csproj|c:\\users\\kanui\\downloads\\terms\\terms\\views\\appsettings.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EAFC2A-18C8-4765-8E65-04DFA174B66D}|Terms.csproj|solutionrelative:views\\appsettings.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EAFC2A-18C8-4765-8E65-04DFA174B66D}|Terms.csproj|c:\\users\\kanui\\downloads\\terms\\terms\\views\\appsettings.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{31EAFC2A-18C8-4765-8E65-04DFA174B66D}|Terms.csproj|solutionrelative:views\\appsettings.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EAFC2A-18C8-4765-8E65-04DFA174B66D}|Terms.csproj|c:\\users\\kanui\\downloads\\terms\\terms\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{31EAFC2A-18C8-4765-8E65-04DFA174B66D}|Terms.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EAFC2A-18C8-4765-8E65-04DFA174B66D}|Terms.csproj|c:\\users\\kanui\\downloads\\terms\\terms\\views\\notifications.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EAFC2A-18C8-4765-8E65-04DFA174B66D}|Terms.csproj|solutionrelative:views\\notifications.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EAFC2A-18C8-4765-8E65-04DFA174B66D}|Terms.csproj|c:\\users\\kanui\\downloads\\terms\\terms\\views\\courseadd.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EAFC2A-18C8-4765-8E65-04DFA174B66D}|Terms.csproj|solutionrelative:views\\courseadd.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EAFC2A-18C8-4765-8E65-04DFA174B66D}|Terms.csproj|c:\\users\\kanui\\downloads\\terms\\terms\\views\\courseadd.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{31EAFC2A-18C8-4765-8E65-04DFA174B66D}|Terms.csproj|solutionrelative:views\\courseadd.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EAFC2A-18C8-4765-8E65-04DFA174B66D}|Terms.csproj|c:\\users\\kanui\\downloads\\terms\\terms\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{31EAFC2A-18C8-4765-8E65-04DFA174B66D}|Terms.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EAFC2A-18C8-4765-8E65-04DFA174B66D}|Terms.csproj|c:\\users\\kanui\\downloads\\terms\\terms\\services\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EAFC2A-18C8-4765-8E65-04DFA174B66D}|Terms.csproj|solutionrelative:services\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EAFC2A-18C8-4765-8E65-04DFA174B66D}|Terms.csproj|c:\\users\\kanui\\downloads\\terms\\terms\\views\\courseedit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EAFC2A-18C8-4765-8E65-04DFA174B66D}|Terms.csproj|solutionrelative:views\\courseedit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EAFC2A-18C8-4765-8E65-04DFA174B66D}|Terms.csproj|c:\\users\\kanui\\downloads\\terms\\terms\\views\\courseedit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{31EAFC2A-18C8-4765-8E65-04DFA174B66D}|Terms.csproj|solutionrelative:views\\courseedit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EAFC2A-18C8-4765-8E65-04DFA174B66D}|Terms.csproj|c:\\users\\kanui\\downloads\\terms\\terms\\views\\termedit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EAFC2A-18C8-4765-8E65-04DFA174B66D}|Terms.csproj|solutionrelative:views\\termedit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EAFC2A-18C8-4765-8E65-04DFA174B66D}|Terms.csproj|c:\\users\\kanui\\downloads\\terms\\terms\\views\\termedit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{31EAFC2A-18C8-4765-8E65-04DFA174B66D}|Terms.csproj|solutionrelative:views\\termedit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EAFC2A-18C8-4765-8E65-04DFA174B66D}|Terms.csproj|c:\\users\\kanui\\downloads\\terms\\terms\\views\\termlist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EAFC2A-18C8-4765-8E65-04DFA174B66D}|Terms.csproj|solutionrelative:views\\termlist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EAFC2A-18C8-4765-8E65-04DFA174B66D}|Terms.csproj|c:\\users\\kanui\\downloads\\terms\\terms\\views\\termlist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{31EAFC2A-18C8-4765-8E65-04DFA174B66D}|Terms.csproj|solutionrelative:views\\termlist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EAFC2A-18C8-4765-8E65-04DFA174B66D}|Terms.csproj|c:\\users\\kanui\\downloads\\terms\\terms\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EAFC2A-18C8-4765-8E65-04DFA174B66D}|Terms.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EAFC2A-18C8-4765-8E65-04DFA174B66D}|Terms.csproj|c:\\users\\kanui\\downloads\\terms\\terms\\views\\termadd.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EAFC2A-18C8-4765-8E65-04DFA174B66D}|Terms.csproj|solutionrelative:views\\termadd.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EAFC2A-18C8-4765-8E65-04DFA174B66D}|Terms.csproj|c:\\users\\kanui\\downloads\\terms\\terms\\views\\termadd.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{31EAFC2A-18C8-4765-8E65-04DFA174B66D}|Terms.csproj|solutionrelative:views\\termadd.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EAFC2A-18C8-4765-8E65-04DFA174B66D}|Terms.csproj|c:\\users\\kanui\\downloads\\terms\\terms\\models\\gadget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EAFC2A-18C8-4765-8E65-04DFA174B66D}|Terms.csproj|solutionrelative:models\\gadget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EAFC2A-18C8-4765-8E65-04DFA174B66D}|Terms.csproj|c:\\users\\kanui\\downloads\\terms\\terms\\views\\notifications.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{31EAFC2A-18C8-4765-8E65-04DFA174B66D}|Terms.csproj|solutionrelative:views\\notifications.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EAFC2A-18C8-4765-8E65-04DFA174B66D}|Terms.csproj|c:\\users\\kanui\\downloads\\terms\\terms\\models\\assessment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EAFC2A-18C8-4765-8E65-04DFA174B66D}|Terms.csproj|solutionrelative:models\\assessment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EAFC2A-18C8-4765-8E65-04DFA174B66D}|Terms.csproj|c:\\users\\kanui\\downloads\\terms\\terms\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EAFC2A-18C8-4765-8E65-04DFA174B66D}|Terms.csproj|solutionrelative:models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 229,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\LoginPage.xaml.cs",
+              "RelativeToolTip": "LoginPage.xaml.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T17:42:49.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "LoginPage.xaml",
+              "ToolTip": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\LoginPage.xaml",
+              "RelativeToolTip": "LoginPage.xaml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAADIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-08T17:42:45.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserInfo.cs",
+              "DocumentMoniker": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\Models\\UserInfo.cs",
+              "RelativeDocumentMoniker": "Models\\UserInfo.cs",
+              "ToolTip": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\Models\\UserInfo.cs",
+              "RelativeToolTip": "Models\\UserInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T16:26:42.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Models\\Course.cs",
+              "ToolTip": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\Models\\Course.cs",
+              "RelativeToolTip": "Models\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T18:02:06.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Notifications.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\Views\\Notifications.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\Notifications.xaml.cs",
+              "ToolTip": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\Views\\Notifications.xaml.cs",
+              "RelativeToolTip": "Views\\Notifications.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T05:36:31.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppSettings.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\Views\\AppSettings.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\AppSettings.xaml.cs",
+              "ToolTip": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\Views\\AppSettings.xaml.cs",
+              "RelativeToolTip": "Views\\AppSettings.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA6wBYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T23:24:37.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CourseAdd.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\Views\\CourseAdd.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\CourseAdd.xaml.cs",
+              "ToolTip": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\Views\\CourseAdd.xaml.cs",
+              "RelativeToolTip": "Views\\CourseAdd.xaml.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAIwFIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T21:25:42.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CourseEdit.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\Views\\CourseEdit.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\CourseEdit.xaml.cs",
+              "ToolTip": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\Views\\CourseEdit.xaml.cs",
+              "RelativeToolTip": "Views\\CourseEdit.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T22:34:56.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TermAdd.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\Views\\TermAdd.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\TermAdd.xaml.cs",
+              "ToolTip": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\Views\\TermAdd.xaml.cs",
+              "RelativeToolTip": "Views\\TermAdd.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T21:53:24.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TermList.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\Views\\TermList.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\TermList.xaml.cs",
+              "ToolTip": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\Views\\TermList.xaml.cs",
+              "RelativeToolTip": "Views\\TermList.xaml.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAwAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T21:37:06.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TermEdit.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\Views\\TermEdit.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\TermEdit.xaml.cs",
+              "ToolTip": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\Views\\TermEdit.xaml.cs",
+              "RelativeToolTip": "Views\\TermEdit.xaml.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAmwB8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T21:04:19.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Dashboard.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\Views\\Dashboard.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\Dashboard.xaml.cs",
+              "ToolTip": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\Views\\Dashboard.xaml.cs",
+              "RelativeToolTip": "Views\\Dashboard.xaml.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAIwCAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T16:14:34.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CourseEdit.xaml",
+              "DocumentMoniker": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\Views\\CourseEdit.xaml",
+              "RelativeDocumentMoniker": "Views\\CourseEdit.xaml",
+              "ToolTip": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\Views\\CourseEdit.xaml",
+              "RelativeToolTip": "Views\\CourseEdit.xaml",
+              "ViewState": "AQIAAEIAAAAAAAAAAIBZwGAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-20T16:09:54.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CourseAdd.xaml",
+              "DocumentMoniker": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\Views\\CourseAdd.xaml",
+              "RelativeDocumentMoniker": "Views\\CourseAdd.xaml",
+              "ToolTip": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\Views\\CourseAdd.xaml",
+              "RelativeToolTip": "Views\\CourseAdd.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-20T16:09:45.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Notifications.xaml",
+              "DocumentMoniker": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\Views\\Notifications.xaml",
+              "RelativeDocumentMoniker": "Views\\Notifications.xaml",
+              "ToolTip": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\Views\\Notifications.xaml",
+              "RelativeToolTip": "Views\\Notifications.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-20T16:09:32.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TermList.xaml",
+              "DocumentMoniker": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\Views\\TermList.xaml",
+              "RelativeDocumentMoniker": "Views\\TermList.xaml",
+              "ToolTip": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\Views\\TermList.xaml",
+              "RelativeToolTip": "Views\\TermList.xaml",
+              "ViewState": "AQIAABIAAAAAAAAAAIBZwCsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-20T16:09:21.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TermEdit.xaml",
+              "DocumentMoniker": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\Views\\TermEdit.xaml",
+              "RelativeDocumentMoniker": "Views\\TermEdit.xaml",
+              "ToolTip": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\Views\\TermEdit.xaml",
+              "RelativeToolTip": "Views\\TermEdit.xaml",
+              "ViewState": "AQIAADYAAAAAAAAAAIBZwFgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-20T16:09:02.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TermAdd.xaml",
+              "DocumentMoniker": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\Views\\TermAdd.xaml",
+              "RelativeDocumentMoniker": "Views\\TermAdd.xaml",
+              "ToolTip": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\Views\\TermAdd.xaml",
+              "RelativeToolTip": "Views\\TermAdd.xaml",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBZwCEAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-20T16:08:46.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppSettings.xaml",
+              "DocumentMoniker": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\Views\\AppSettings.xaml",
+              "RelativeDocumentMoniker": "Views\\AppSettings.xaml",
+              "ToolTip": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\Views\\AppSettings.xaml",
+              "RelativeToolTip": "Views\\AppSettings.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-20T16:08:35.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Widget.cs",
+              "DocumentMoniker": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\Models\\Widget.cs",
+              "RelativeDocumentMoniker": "Models\\Widget.cs",
+              "ToolTip": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\Models\\Widget.cs",
+              "RelativeToolTip": "Models\\Widget.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T16:07:32.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Gadget.cs",
+              "DocumentMoniker": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\Models\\Gadget.cs",
+              "RelativeDocumentMoniker": "Models\\Gadget.cs",
+              "ToolTip": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\Models\\Gadget.cs",
+              "RelativeToolTip": "Models\\Gadget.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAIwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T16:07:26.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\Services\\Settings.cs",
+              "RelativeDocumentMoniker": "Services\\Settings.cs",
+              "ToolTip": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\Services\\Settings.cs",
+              "RelativeToolTip": "Services\\Settings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T16:06:56.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatabaseService.cs",
+              "DocumentMoniker": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\Services\\DatabaseService.cs",
+              "RelativeDocumentMoniker": "Services\\DatabaseService.cs",
+              "ToolTip": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\Services\\DatabaseService.cs",
+              "RelativeToolTip": "Services\\DatabaseService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAuwNYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T16:06:46.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Dashboard.xaml",
+              "DocumentMoniker": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\Views\\Dashboard.xaml",
+              "RelativeDocumentMoniker": "Views\\Dashboard.xaml",
+              "ToolTip": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\Views\\Dashboard.xaml",
+              "RelativeToolTip": "Views\\Dashboard.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAABBwAEAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-20T15:58:24.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-20T14:38:08.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Terms.csproj",
+              "DocumentMoniker": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\Terms.csproj",
+              "RelativeDocumentMoniker": "Terms.csproj",
+              "ToolTip": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\Terms.csproj",
+              "RelativeToolTip": "Terms.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-20T06:58:52.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T06:17:53.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-20T06:17:50.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Note.cs",
+              "DocumentMoniker": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\Models\\Note.cs",
+              "RelativeDocumentMoniker": "Models\\Note.cs",
+              "ToolTip": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\Models\\Note.cs",
+              "RelativeToolTip": "Models\\Note.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T05:49:18.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\Models\\Instructor.cs",
+              "RelativeDocumentMoniker": "Models\\Instructor.cs",
+              "ToolTip": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\Models\\Instructor.cs",
+              "RelativeToolTip": "Models\\Instructor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T05:49:18.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Assessment.cs",
+              "DocumentMoniker": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\Models\\Assessment.cs",
+              "RelativeDocumentMoniker": "Models\\Assessment.cs",
+              "ToolTip": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\Models\\Assessment.cs",
+              "RelativeToolTip": "Models\\Assessment.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T05:49:16.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Term.cs",
+              "DocumentMoniker": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\Models\\Term.cs",
+              "RelativeDocumentMoniker": "Models\\Term.cs",
+              "ToolTip": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\Models\\Term.cs",
+              "RelativeToolTip": "Models\\Term.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T04:07:43.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\AppShell.xaml.cs",
+              "RelativeToolTip": "AppShell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T01:29:47.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "C:\\Users\\kanui\\Downloads\\Terms\\Terms\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T23:58:00.179Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

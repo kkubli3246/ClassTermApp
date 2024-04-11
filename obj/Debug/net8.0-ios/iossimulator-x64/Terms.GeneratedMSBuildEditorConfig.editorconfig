@@ -1,0 +1,95 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-ios
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Terms
+build_property.ProjectDir = C:\971\Projects\Terms\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[C:/971/Projects/Terms/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Terms.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/971/Projects/Terms/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Terms.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/971/Projects/Terms/LoginPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Terms.LoginPage.xaml
+build_metadata.AdditionalFiles.TargetPath = LoginPage.xaml
+build_metadata.AdditionalFiles.RelativePath = LoginPage.xaml
+
+[C:/971/Projects/Terms/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Terms.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/971/Projects/Terms/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Terms.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/971/Projects/Terms/Views/AppSettings.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Terms.Views.AppSettings.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\AppSettings.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\AppSettings.xaml
+
+[C:/971/Projects/Terms/Views/CourseAdd.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Terms.Views.CourseAdd.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\CourseAdd.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\CourseAdd.xaml
+
+[C:/971/Projects/Terms/Views/CourseEdit.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Terms.Views.CourseEdit.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\CourseEdit.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\CourseEdit.xaml
+
+[C:/971/Projects/Terms/Views/Dashboard.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Terms.Views.Dashboard.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Dashboard.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Dashboard.xaml
+
+[C:/971/Projects/Terms/Views/Notifications.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Terms.Views.Notifications.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Notifications.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Notifications.xaml
+
+[C:/971/Projects/Terms/Views/TermAdd.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Terms.Views.TermAdd.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\TermAdd.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\TermAdd.xaml
+
+[C:/971/Projects/Terms/Views/TermEdit.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Terms.Views.TermEdit.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\TermEdit.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\TermEdit.xaml
+
+[C:/971/Projects/Terms/Views/TermList.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Terms.Views.TermList.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\TermList.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\TermList.xaml

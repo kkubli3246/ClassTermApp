@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Terms.Views.Dashboard"
+             Title="Dashboard">
+    <NavigationPage.TitleView>
+        <Label Text ="Term Planner" 
+               FontSize="Medium"/>
+    </NavigationPage.TitleView>
+    <ContentPage.ToolbarItems>
+        <ToolbarItem x:Name="AddTerm" Text="Add Term" Clicked="AddTerm_Clicked"/>
+        <ToolbarItem x:Name="ViewTerm" Text="View Term" Clicked="ViewTerm_Clicked"/>
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="C971 Final Project" FontAttributes="Bold" FontSize="Title"
+                   VerticalOptions="CenterAndExpand"
+                   HorizontalOptions="CenterAndExpand"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
